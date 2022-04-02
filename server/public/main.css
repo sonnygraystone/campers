@@ -1,0 +1,26 @@
+body {
+  background: url(images/mt-cook.jpg) no-repeat;
+  background-color: blueviolet;
+  color: seagreen;
+  background-size: cover;
+}
+
+.app-title {
+  color: navajowhite;
+  margin: 10%;
+}
+
+.form-wording {
+  color: peachpuff;
+  font-size: 18px;
+}
+
+.text {
+  color: azure;
+  font-size: 18px;
+  margin: 2%;
+}
+
+.links {
+  color: navajowhite;
+}
